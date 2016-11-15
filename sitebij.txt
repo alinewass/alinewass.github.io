@@ -1,0 +1,27 @@
+HEAD: Nom de la bijouterie en gras avec une belle police
+une nav pour la recherche
+
+MAIN:
+Une nav avec une barre d'onglet qui s'ouvre en self: 
+BIJOUX MONTRES LA MAISON 
+
+Lorsqu'on place le curseur sur les onglets, un cadre apparait spécifiants les types de bijoux par exemple, sur lesquels on pleut cliquer pour affiner sa recherche 
+
+==> pour Bijoux: 3 colonnes:  Par genre (bijoux homme, femme, enfant)
+                                               Par matière (or, argent, platine)
+                                               Par type (bagues, boucles, bracelet.....)
+
+==> Montres: Par genre (idem que bijoux)
+                      Par marque (festina.....)
+
+==> Maison: Notre histoire, les faits, savoir faire...
+
+Sur chaque onglet: un ASIDE avec des éléments de recherche 
+
+
+En footer: contact, adress, horaires...
+
+
+
+
+
