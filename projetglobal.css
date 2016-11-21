@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  font-family: "TimesNewRoman";
+  font-style: italic;
+  font-size: 55px
+}
+body {
+  background-image: url(/home/aline_outerbah/Images/Diamant-HD.jpg);
+  background-size: 50%;
+  background-position:center center;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+html {
+  height: 100%;
+}
+nav>ul>li {
+  display: inline-block;
+}
+nav ul li a + *{
+  display: none;
+}
+nav ul li a:hover + *{
+  display: block;
+  color:red;
+}
