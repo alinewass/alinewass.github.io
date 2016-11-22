@@ -4,6 +4,7 @@ h1 {
   font-style: italic;
   font-weight: normal;
   font-size: 55px;
+  border-bottom : 1px solid #000;
 }
 body {
   background-image: url(./Diamant-HD.jpg);
@@ -17,6 +18,8 @@ html {
 }
 nav>ul>li {
   display: inline-block;
+  list-style: none;
+  padding: 0 50px;
 }
 nav ul li a + *{
   display: none;
@@ -35,5 +38,15 @@ nav {
   font-family:"TimesNewRoman";
   font-size: 20px;
   text-align: center;
-  color: black;
+}
+a {
+text-decoration: none;
+color: black;
+}
+a:hover {
+  color: gray;
+}
+nav>ul>li>ul{
+  padding: 0;
+  list-style: none;
 }
