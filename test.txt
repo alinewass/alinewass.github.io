@@ -1,0 +1,9 @@
+total 20
+drwxrwxr-x 3 aline_outerbah aline_outerbah 4096 nov.  15 20:03 ./
+drwxrwxr-x 5 aline_outerbah aline_outerbah 4096 nov.  15 17:07 ../
+-rw-rw-r-- 1 aline_outerbah aline_outerbah    0 nov.  15 18:26 aline.html
+drwxrwxr-x 8 aline_outerbah aline_outerbah 4096 nov.  15 18:29 .git/
+-rw-rw-r-- 1 aline_outerbah aline_outerbah    0 nov.  15 17:10 index.html
+-rw-rw-r-- 1 aline_outerbah aline_outerbah   10 nov.  15 17:25 README.md
+-rw-rw-r-- 1 aline_outerbah aline_outerbah  834 nov.  15 18:07 sitebij.txt
+-rw-rw-r-- 1 aline_outerbah aline_outerbah    0 nov.  15 20:03 test.txt

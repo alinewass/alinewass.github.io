@@ -1,13 +1,31 @@
+img {
+  width: 130px;
+  height: auto;
+  float: left;
+  display: inline;
+  margin-left: 30px;
+  position: absolute;
+  left: 190px;
+}
 h1 {
   text-align: center;
-  font-family: "Symbola";
+  font-family: "URW Chancery L";
   font-style: italic;
   font-weight: normal;
   font-size: 55px;
+  position: relative;
+}
+p {
+  text-align: center;
+  font-family: "URW Chancery L";
+  font-style: italic;
+  font-weight: normal;
+  margin: 20px;
+  font-size: 20px;
   border-bottom : 1px solid #000;
 }
 body {
-  background-image: url(./Diamant-HD.jpg);
+  background-image: url(./Diamant3.jpg);
   background-size: 35%;
   background-position:center center;
   background-repeat: no-repeat;
@@ -34,7 +52,7 @@ nav ul li a + *:hover {
   color:blue;
 }
 nav {
-  font-family:"TimesNewRoman";
+  font-family: "URW Chancery L";
   font-size: 20px;
   text-align: center;
 }
@@ -44,13 +62,19 @@ color: black;
 }
 a:hover {
   color: gray;
+  font-size: 22px;
+  text-decoration: underline;
 }
 nav>ul>li>ul{
-  width: 18%;
+  width: 14%;
   list-style: none;
   padding: 0;
 }
-
 nav>ul>li{
-  width: 18%;
+  width: 14%;
+}
+nav ul {
+  padding: 0;
+  display: flex;
+  justify-content: center;
 }
