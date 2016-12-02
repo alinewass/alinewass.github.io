@@ -61,8 +61,6 @@ text-decoration: none;
 color: black;
 }
 a:hover {
-  color: gray;
-  font-size: 22px;
   text-decoration: underline;
 }
 nav>ul>li>ul{
@@ -84,10 +82,16 @@ footer {
   position: absolute;
   bottom:0;
   width:100%;
-  padding-top:0px;
-  height:50px;
-  font-size: 10px;
+  height:100px;
   font-style: italic;
   margin: 0;
   justify-content: center;
+}
+footer ul {
+  margin: 0
+  width: 14%;
+  font-size: 17px;
+}
+footer>ul>li{
+  font-size: 15px;
 }
